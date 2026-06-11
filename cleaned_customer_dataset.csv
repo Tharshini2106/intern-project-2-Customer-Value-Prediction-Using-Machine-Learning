@@ -1,0 +1,201 @@
+Customer_ID,Age,Gender,City,Occupation,Education,Membership_Status,Monthly_Income,Spending_Score,Online_Purchases,Customer_Satisfaction,Purchase_Amount,Income_Group
+C001,56.0,Female,Hyderabad,Teacher,Master,Silver,72886.0,94.0,10.0,5.0,13363.0,High
+C002,57.0,Female,Mumbai,Doctor,High School,Gold,77735.0,49.0,5.0,2.0,7311.0,High
+C003,38.0,Male,Delhi,Engineer,Diploma,Silver,43658.0,61.0,27.0,4.0,11167.0,Medium
+C004,32.0,Female,Pune,Doctor,Bachelor,Platinum,84803.0,83.0,24.0,3.0,5556.0,High
+C005,24.0,Male,Chennai,Engineer,Master,Silver,61001.0,28.0,25.0,5.0,9041.0,High
+C006,37.0,Female,Delhi,Manager,High School,Platinum,119769.125,55.0,17.0,4.0,21923.375,High
+C007,23.0,Female,Bangalore,Manager,Diploma,Silver,63758.0,37.0,25.0,4.0,2161.0,High
+C008,27.0,Female,Delhi,Doctor,Bachelor,Platinum,58397.0,81.0,7.0,5.0,8040.0,Medium
+C009,35.0,Male,Hyderabad,Engineer,High School,Silver,56044.0,34.0,12.0,1.0,10006.0,Medium
+C010,26.0,Female,Chennai,Manager,Master,Platinum,23258.0,27.0,2.0,3.0,14666.0,Low
+C011,22.0,Female,Bangalore,Student,Master,Platinum,26392.0,91.0,11.0,2.0,5104.0,Low
+C012,40.0,Female,Hyderabad,Teacher,Master,Gold,42538.0,54.0,0.0,3.0,10110.0,Medium
+C013,31.0,Male,Chennai,Analyst,Diploma,Platinum,24910.0,33.0,6.0,3.0,6488.0,Low
+C014,32.0,Male,Bangalore,Engineer,Master,Silver,68015.0,71.0,28.0,4.0,3757.0,High
+C015,54.0,Male,Hyderabad,Teacher,High School,Silver,80623.0,90.0,26.0,3.0,5157.0,High
+C016,45.0,Female,Bangalore,Analyst,Diploma,Silver,20693.0,47.0,27.0,4.0,5627.0,Low
+C017,37.0,Female,Pune,Teacher,Master,Gold,33707.0,81.0,0.0,1.0,3306.0,Medium
+C018,30.0,Male,Mumbai,Doctor,Master,Platinum,21748.0,70.0,9.0,4.0,2663.0,Low
+C019,32.0,Male,Pune,Student,Master,Silver,52647.0,77.0,19.0,4.0,5581.0,Medium
+C020,56.0,Female,Mumbai,Student,High School,Silver,44736.0,21.0,1.0,4.0,2854.0,Medium
+C021,54.0,Female,Chennai,Student,Bachelor,Gold,68859.0,51.0,5.0,4.0,5510.0,High
+C022,28.0,Female,Mumbai,Student,Bachelor,Gold,85863.0,88.0,19.0,2.0,2197.0,High
+C023,39.0,Male,Chennai,Student,Master,Platinum,69663.0,22.0,19.0,4.0,9098.0,High
+C024,53.0,Male,Bangalore,Teacher,Bachelor,Platinum,29411.0,90.0,19.0,1.0,4976.0,Low
+C025,57.0,Female,Bangalore,Student,Bachelor,Silver,57384.0,69.0,22.0,2.0,2262.0,Medium
+C026,33.0,Female,Chennai,Manager,Master,Silver,20049.0,20.0,15.0,4.0,6548.0,Low
+C027,54.0,Female,Mumbai,Student,High School,Platinum,60642.0,67.0,15.0,3.0,6499.0,High
+C028,41.0,Female,Chennai,Manager,Bachelor,Silver,50711.0,55.0,5.0,4.0,10445.0,Medium
+C029,40.0,Female,Pune,Student,Bachelor,Silver,86497.0,85.0,21.0,3.0,13983.0,High
+C030,58.0,Female,Chennai,Manager,High School,Gold,21987.0,27.0,6.0,3.0,6496.0,Low
+C031,50.0,Female,Delhi,Teacher,Bachelor,Gold,37830.0,41.0,13.0,5.0,10754.0,Medium
+C032,25.0,Male,Mumbai,Engineer,High School,Gold,57790.0,83.0,0.0,5.0,13259.0,Medium
+C033,36.0,Female,Mumbai,Student,Master,Silver,74491.0,49.0,28.0,5.0,12757.0,High
+C034,52.0,Female,Chennai,Analyst,Master,Silver,18301.0,72.0,2.0,4.0,8040.0,Low
+C035,38.0,Female,Chennai,Teacher,Master,Gold,52584.0,73.0,25.0,3.0,3895.0,Medium
+C036,41.0,Female,Pune,Engineer,Bachelor,Platinum,28729.0,21.0,25.0,1.0,13367.0,Low
+C037,50.0,Male,Mumbai,Doctor,Master,Platinum,72748.0,61.0,22.0,2.0,7986.0,High
+C038,42.0,Female,Hyderabad,Manager,Diploma,Platinum,88316.0,39.0,0.0,4.0,8002.0,High
+C039,40.0,Male,Delhi,Engineer,Diploma,Platinum,70921.0,82.0,29.0,5.0,8293.0,High
+C040,39.0,Male,Delhi,Engineer,Diploma,Platinum,33338.0,79.0,4.0,1.0,5124.0,Medium
+C041,22.0,Male,Delhi,Doctor,High School,Gold,87678.0,74.0,7.0,4.0,8799.0,High
+C042,30.0,Female,Delhi,Engineer,Diploma,Platinum,46251.0,77.0,22.0,2.0,10932.0,Medium
+C043,43.0,Male,Pune,Student,Master,Silver,84617.0,20.0,14.0,2.0,8040.0,High
+C044,42.0,Female,Hyderabad,Analyst,High School,Silver,71222.0,83.0,4.0,5.0,12486.0,High
+C045,20.0,Female,Bangalore,Teacher,High School,Gold,79389.0,88.0,14.0,1.0,4141.0,High
+C046,22.0,Female,Bangalore,Engineer,Master,Silver,80752.0,42.0,25.0,2.0,4849.0,High
+C047,48.0,Female,Bangalore,Teacher,Diploma,Silver,59975.0,88.0,12.0,4.0,13279.0,Medium
+C048,41.0,Female,Bangalore,Student,Master,Platinum,84387.0,43.0,11.0,2.0,13938.0,High
+C049,50.0,Male,Hyderabad,Teacher,Bachelor,Silver,56304.0,59.0,9.0,3.0,9723.0,Medium
+C050,46.0,Male,Delhi,Doctor,Diploma,Silver,45350.0,27.0,28.0,2.0,11817.0,Medium
+C051,51.0,Male,Chennai,Manager,Diploma,Silver,56513.0,94.0,28.0,4.0,2728.0,Medium
+C052,38.0,Male,Chennai,Manager,Diploma,Silver,36888.0,43.0,2.0,1.0,3122.0,Medium
+C053,53.0,Female,Chennai,Doctor,Master,Silver,62811.0,74.0,12.0,1.0,4914.0,High
+C054,58.0,Female,Chennai,Student,Diploma,Silver,68517.0,32.0,26.0,3.0,2395.0,High
+C055,58.0,Male,Delhi,Student,Bachelor,Gold,69934.0,71.0,18.0,2.0,7486.0,High
+C056,33.0,Male,Hyderabad,Teacher,Master,Silver,29130.0,72.0,22.0,1.0,3062.0,Low
+C057,59.0,Female,Pune,Engineer,High School,Platinum,56102.0,94.0,17.0,4.0,9241.0,Medium
+C058,34.0,Male,Pune,Doctor,High School,Gold,80856.0,69.0,26.0,2.0,11409.0,High
+C059,22.0,Male,Hyderabad,Doctor,Bachelor,Silver,44432.0,36.0,6.0,1.0,3324.0,Medium
+C060,21.0,Female,Pune,Manager,Bachelor,Platinum,44790.0,93.0,25.0,3.0,14326.0,Medium
+C061,20.0,Male,Hyderabad,Engineer,Master,Gold,48355.0,91.0,28.0,1.0,12150.0,Medium
+C062,18.0,Male,Hyderabad,Manager,Diploma,Silver,46016.0,44.0,23.0,1.0,7029.0,Medium
+C063,23.0,Female,Delhi,Analyst,Master,Silver,52620.0,66.0,20.0,5.0,14490.0,Medium
+C064,54.0,Female,Mumbai,Teacher,Master,Silver,89726.0,68.0,13.0,1.0,11588.0,High
+C065,20.0,Female,Chennai,Teacher,Master,Gold,28975.0,35.0,7.0,4.0,9575.0,Low
+C066,45.0,Male,Bangalore,Manager,Master,Gold,49921.0,47.0,27.0,5.0,14328.0,Medium
+C067,53.0,Female,Mumbai,Doctor,Bachelor,Silver,56088.0,52.0,20.0,4.0,12700.0,Medium
+C068,45.0,Female,Hyderabad,Analyst,Diploma,Platinum,63445.0,88.0,14.0,1.0,2009.0,High
+C069,47.0,Female,Mumbai,Analyst,High School,Platinum,19015.0,52.0,21.0,1.0,4193.0,Low
+C070,49.0,Male,Chennai,Teacher,High School,Gold,22158.0,78.0,26.0,1.0,6000.0,Low
+C071,51.0,Male,Mumbai,Student,High School,Platinum,47189.0,88.0,4.0,3.0,3460.0,Medium
+C072,40.0,Male,Hyderabad,Analyst,Diploma,Gold,71330.0,36.0,20.0,1.0,7997.0,High
+C073,18.0,Male,Hyderabad,Analyst,Master,Gold,88080.0,51.0,1.0,4.0,9239.0,High
+C074,56.0,Female,Bangalore,Engineer,Diploma,Gold,67922.0,69.0,11.0,1.0,3077.0,High
+C075,22.0,Female,Pune,Teacher,High School,Silver,71871.0,66.0,22.0,5.0,8996.0,High
+C076,40.0,Female,Mumbai,Teacher,Bachelor,Gold,83215.0,57.0,17.0,2.0,10017.0,High
+C077,47.0,Male,Mumbai,Teacher,Bachelor,Gold,71413.0,98.0,27.0,2.0,9730.0,High
+C078,34.0,Male,Hyderabad,Manager,Diploma,Silver,37963.0,88.0,1.0,5.0,7569.0,Medium
+C079,30.0,Female,Mumbai,Teacher,Master,Platinum,24254.0,42.0,22.0,3.0,13637.0,Low
+C080,33.0,Female,Delhi,Manager,Master,Silver,51434.0,51.0,17.0,5.0,8777.0,Medium
+C081,36.0,Male,Hyderabad,Engineer,Master,Gold,54668.0,41.0,20.0,1.0,8376.0,Medium
+C082,29.0,Female,Pune,Engineer,High School,Gold,41624.0,63.0,24.0,1.0,12453.0,Medium
+C083,47.0,Male,Hyderabad,Student,Diploma,Silver,77399.0,71.0,14.0,2.0,14315.0,High
+C084,40.0,Female,Bangalore,Analyst,Diploma,Gold,33034.0,75.0,18.0,3.0,3646.0,Medium
+C085,40.0,Female,Mumbai,Manager,High School,Gold,52674.0,34.0,24.0,5.0,8040.0,Medium
+C086,27.0,Male,Chennai,Student,Bachelor,Gold,74793.0,63.0,24.0,1.0,5596.0,High
+C087,37.0,Male,Delhi,Engineer,Bachelor,Silver,52647.0,53.0,14.0,1.0,8891.0,Medium
+C088,36.0,Female,Chennai,Analyst,Diploma,Gold,52647.0,78.0,23.0,3.0,2876.0,Medium
+C089,23.0,Male,Chennai,Student,High School,Gold,52647.0,23.0,29.0,3.0,5517.0,Medium
+C090,47.0,Male,Chennai,Teacher,Bachelor,Platinum,22324.0,55.0,23.0,2.0,10659.0,Low
+C091,45.0,Male,Delhi,Doctor,Diploma,Silver,31234.0,81.0,24.0,2.0,2846.0,Medium
+C092,28.0,Female,Bangalore,Teacher,High School,Silver,24469.0,45.0,21.0,4.0,12002.0,Low
+C093,37.0,Male,Delhi,Student,Master,Platinum,85584.0,33.0,5.0,5.0,3917.0,High
+C094,28.0,Male,Delhi,Analyst,Bachelor,Platinum,38128.0,25.0,17.0,2.0,2260.0,Medium
+C095,40.0,Female,Delhi,Engineer,High School,Gold,52387.0,84.0,4.0,1.0,4832.0,Medium
+C096,26.0,Male,Pune,Teacher,Diploma,Platinum,30219.0,69.0,13.0,5.0,10567.0,Medium
+C097,28.0,Male,Bangalore,Manager,Bachelor,Platinum,23415.0,83.0,21.0,4.0,7951.0,Low
+C098,46.0,Female,Mumbai,Student,High School,Gold,48523.0,49.0,2.0,5.0,4898.0,Medium
+C099,31.0,Female,Pune,Manager,High School,Silver,61303.0,91.0,6.0,3.0,9804.0,High
+C100,55.0,Male,Chennai,Student,High School,Silver,52647.0,85.0,13.0,5.0,5687.0,Medium
+C101,57.0,Male,Mumbai,Doctor,Diploma,Platinum,119769.125,61.0,19.0,5.0,21923.375,High
+C102,47.0,Male,Mumbai,Manager,High School,Gold,84656.0,46.0,22.0,1.0,7373.0,High
+C103,21.0,Female,Bangalore,Engineer,High School,Platinum,61872.0,57.0,12.0,4.0,8359.0,High
+C104,32.0,Male,Hyderabad,Analyst,Bachelor,Silver,38609.0,46.0,18.0,3.0,12147.0,Medium
+C105,53.0,Female,Mumbai,Teacher,High School,Platinum,32153.0,57.0,5.0,2.0,12541.0,Medium
+C106,29.0,Female,Hyderabad,Doctor,Diploma,Silver,33328.0,79.0,10.0,4.0,9147.0,Medium
+C107,53.0,Female,Delhi,Analyst,Master,Silver,18126.0,63.0,25.0,1.0,7109.0,Low
+C108,46.0,Female,Chennai,Doctor,Bachelor,Platinum,52560.0,65.0,4.0,5.0,5417.0,Medium
+C109,53.0,Female,Chennai,Student,Bachelor,Gold,55430.0,59.0,14.0,5.0,13694.0,Medium
+C110,26.0,Male,Chennai,Engineer,Master,Silver,31224.0,54.0,19.0,1.0,3625.0,Medium
+C111,28.0,Female,Bangalore,Engineer,Bachelor,Gold,54368.0,62.0,26.0,4.0,3205.0,Medium
+C112,41.0,Male,Delhi,Doctor,High School,Silver,55148.0,82.0,10.0,2.0,12395.0,Medium
+C113,40.0,Male,Chennai,Manager,High School,Silver,70853.0,82.0,28.0,1.0,6422.0,High
+C114,18.0,Female,Hyderabad,Doctor,Bachelor,Platinum,42442.0,75.0,18.0,5.0,13568.0,Medium
+C115,46.0,Female,Mumbai,Engineer,High School,Gold,56258.0,66.0,17.0,2.0,8645.0,Medium
+C116,45.0,Male,Bangalore,Doctor,Diploma,Platinum,83155.0,20.0,7.0,5.0,14342.0,High
+C117,56.0,Male,Bangalore,Engineer,Bachelor,Gold,70603.0,74.0,27.0,2.0,5462.0,High
+C118,46.0,Female,Chennai,Student,Bachelor,Platinum,48678.0,78.0,28.0,1.0,5310.0,Medium
+C119,54.0,Male,Mumbai,Student,Master,Platinum,82929.0,54.0,23.0,3.0,14175.0,High
+C120,21.0,Female,Hyderabad,Doctor,High School,Gold,84358.0,67.0,17.0,2.0,10966.0,High
+C121,50.0,Male,Hyderabad,Teacher,Master,Silver,59874.0,55.0,28.0,4.0,6177.0,Medium
+C122,19.0,Male,Hyderabad,Manager,Bachelor,Gold,33358.0,21.0,2.0,4.0,3555.0,Medium
+C123,22.0,Male,Pune,Doctor,High School,Gold,80516.0,63.0,2.0,4.0,13769.0,High
+C124,39.0,Female,Chennai,Engineer,Diploma,Platinum,55599.0,33.0,8.0,2.0,10428.0,Medium
+C125,42.0,Male,Chennai,Doctor,Diploma,Platinum,69693.0,23.0,25.0,2.0,12268.0,High
+C126,51.0,Male,Hyderabad,Teacher,Diploma,Gold,79268.0,61.0,3.0,1.0,12273.0,High
+C127,34.0,Male,Chennai,Doctor,Diploma,Platinum,66756.0,46.0,24.0,3.0,6263.0,High
+C128,40.0,Female,Hyderabad,Student,High School,Platinum,77052.0,36.0,25.0,5.0,9643.0,High
+C129,19.0,Female,Pune,Teacher,High School,Platinum,39172.0,55.0,18.0,2.0,6124.0,Medium
+C130,38.0,Male,Mumbai,Manager,High School,Platinum,29046.0,73.0,1.0,5.0,9479.0,Low
+C131,50.0,Female,Delhi,Manager,Bachelor,Platinum,49987.0,81.0,26.0,5.0,8040.0,Medium
+C132,51.0,Male,Bangalore,Engineer,High School,Silver,33048.0,59.0,16.0,1.0,3240.0,Medium
+C133,57.0,Female,Chennai,Teacher,Bachelor,Gold,52020.0,63.0,18.0,2.0,8667.0,Medium
+C134,36.0,Male,Delhi,Teacher,Bachelor,Silver,53772.0,36.0,9.0,1.0,14086.0,Medium
+C135,29.0,Female,Mumbai,Analyst,High School,Platinum,72756.0,99.0,5.0,1.0,8609.0,High
+C136,42.0,Female,Mumbai,Engineer,High School,Silver,45935.0,29.0,15.0,1.0,14182.0,Medium
+C137,43.0,Male,Pune,Engineer,Bachelor,Gold,55198.0,26.0,8.0,3.0,10007.0,Medium
+C138,40.0,Male,Bangalore,Doctor,Master,Platinum,37426.0,37.0,26.0,2.0,2614.0,Medium
+C139,34.0,Female,Mumbai,Manager,Master,Silver,20983.0,74.0,22.0,4.0,10230.0,Low
+C140,32.0,Female,Chennai,Manager,High School,Gold,25564.0,52.0,15.0,5.0,11323.0,Low
+C141,19.0,Male,Mumbai,Engineer,Diploma,Gold,47430.0,32.0,12.0,2.0,5810.0,Medium
+C142,56.0,Female,Delhi,Analyst,Diploma,Silver,79916.0,81.0,20.0,4.0,14984.0,High
+C143,33.0,Female,Delhi,Student,Diploma,Gold,68072.0,24.0,0.0,1.0,4050.0,High
+C144,31.0,Female,Pune,Engineer,Master,Gold,58600.0,67.0,0.0,5.0,10173.0,Medium
+C145,32.0,Male,Chennai,Student,Master,Platinum,61001.0,56.0,28.0,5.0,11130.0,High
+C146,23.0,Male,Pune,Teacher,Diploma,Silver,66280.0,90.0,19.0,4.0,7690.0,High
+C147,25.0,Female,Hyderabad,Doctor,High School,Platinum,52157.0,93.0,10.0,2.0,2824.0,Medium
+C148,43.0,Male,Chennai,Engineer,Bachelor,Gold,68948.0,73.0,14.0,1.0,13362.0,High
+C149,37.0,Female,Chennai,Analyst,Bachelor,Gold,43425.0,81.0,16.0,3.0,14447.0,Medium
+C150,52.0,Female,Hyderabad,Analyst,Bachelor,Silver,77720.0,87.0,13.0,5.0,13873.0,High
+C151,28.0,Male,Mumbai,Teacher,Master,Silver,83160.0,86.0,24.0,2.0,11547.0,High
+C152,59.0,Male,Chennai,Analyst,Bachelor,Platinum,43559.0,98.0,5.0,3.0,5972.0,Medium
+C153,43.0,Female,Pune,Analyst,Master,Silver,59755.0,88.0,12.0,1.0,7233.0,Medium
+C154,57.0,Male,Pune,Analyst,Bachelor,Gold,19591.0,59.0,1.0,3.0,12188.0,Low
+C155,50.0,Female,Mumbai,Manager,High School,Platinum,83082.0,67.0,8.0,5.0,2362.0,High
+C156,42.0,Male,Bangalore,Manager,Bachelor,Platinum,20469.0,79.0,6.0,5.0,2556.0,Low
+C157,48.0,Male,Bangalore,Engineer,Master,Platinum,54509.0,58.0,17.0,4.0,13521.0,Medium
+C158,31.0,Male,Hyderabad,Manager,Bachelor,Gold,78461.0,46.0,16.0,1.0,4064.0,High
+C159,57.0,Male,Bangalore,Manager,Master,Silver,19007.0,89.0,18.0,2.0,7352.0,Low
+C160,49.0,Female,Delhi,Manager,Bachelor,Gold,44660.0,41.0,3.0,4.0,3887.0,Medium
+C161,53.0,Female,Delhi,Teacher,Master,Silver,81888.0,29.0,21.0,1.0,10213.0,High
+C162,43.0,Female,Mumbai,Engineer,Diploma,Gold,55567.0,66.0,28.0,4.0,13939.0,Medium
+C163,52.0,Female,Hyderabad,Manager,Bachelor,Silver,62064.0,25.0,14.0,3.0,12698.0,High
+C164,40.0,Female,Bangalore,Doctor,Diploma,Silver,32288.0,32.0,8.0,5.0,12396.0,Medium
+C165,28.0,Female,Bangalore,Doctor,Master,Gold,40042.0,86.0,16.0,4.0,13703.0,Medium
+C166,45.0,Male,Hyderabad,Analyst,Bachelor,Gold,81416.0,88.0,2.0,3.0,9424.0,High
+C167,55.0,Male,Bangalore,Analyst,Bachelor,Silver,44385.0,34.0,11.0,3.0,3607.0,Medium
+C168,42.0,Male,Hyderabad,Analyst,Master,Platinum,48707.0,63.0,2.0,5.0,2959.0,Medium
+C169,41.0,Female,Bangalore,Teacher,Master,Gold,18526.0,44.0,29.0,1.0,14157.0,Low
+C170,37.0,Female,Chennai,Doctor,Master,Silver,23109.0,21.0,23.0,3.0,5788.0,Low
+C171,34.0,Female,Hyderabad,Engineer,Diploma,Gold,80046.0,57.0,10.0,5.0,10920.0,High
+C172,50.0,Female,Pune,Student,Master,Platinum,50981.0,70.0,23.0,1.0,12640.0,Medium
+C173,29.0,Male,Pune,Doctor,Diploma,Silver,40431.0,21.0,0.0,1.0,14236.0,Medium
+C174,47.0,Male,Hyderabad,Manager,Diploma,Gold,70326.0,85.0,5.0,2.0,3709.0,High
+C175,32.0,Female,Bangalore,Manager,High School,Platinum,75660.0,86.0,26.0,1.0,8917.0,High
+C176,26.0,Male,Chennai,Engineer,Master,Gold,21389.0,81.0,14.0,3.0,4430.0,Low
+C177,24.0,Male,Delhi,Manager,Diploma,Gold,51662.0,22.0,8.0,4.0,6109.0,Medium
+C178,28.0,Female,Pune,Manager,Bachelor,Silver,19560.0,64.0,18.0,2.0,5638.0,Low
+C179,53.0,Male,Hyderabad,Analyst,Bachelor,Platinum,38049.0,89.0,17.0,3.0,2661.0,Medium
+C180,54.0,Female,Chennai,Teacher,Bachelor,Gold,26946.0,54.0,28.0,5.0,8078.0,Low
+C181,32.0,Male,Delhi,Student,Diploma,Silver,77321.0,80.0,23.0,4.0,14803.0,High
+C182,45.0,Female,Pune,Manager,Master,Gold,22703.0,55.0,25.0,5.0,7631.0,Low
+C183,53.0,Female,Bangalore,Manager,Diploma,Platinum,30201.0,77.0,21.0,5.0,5714.0,Medium
+C184,35.0,Female,Hyderabad,Student,Bachelor,Gold,37975.0,61.0,11.0,2.0,2374.0,Medium
+C185,54.0,Male,Pune,Analyst,High School,Gold,68677.0,79.0,28.0,1.0,5155.0,High
+C186,19.0,Male,Pune,Student,Bachelor,Silver,85649.0,54.0,4.0,5.0,12238.0,High
+C187,18.0,Female,Delhi,Manager,High School,Platinum,70233.0,86.0,21.0,2.0,7724.0,High
+C188,27.0,Female,Pune,Student,High School,Silver,41499.0,20.0,24.0,4.0,11499.0,Medium
+C189,54.0,Male,Hyderabad,Manager,High School,Silver,27847.0,63.0,23.0,4.0,3390.0,Low
+C190,32.0,Female,Delhi,Teacher,High School,Gold,84504.0,56.0,19.0,2.0,13036.0,High
+C191,18.0,Male,Mumbai,Doctor,High School,Silver,47856.0,70.0,13.0,4.0,6585.0,Medium
+C192,37.0,Male,Bangalore,Teacher,Bachelor,Gold,63272.0,69.0,28.0,1.0,7342.0,High
+C193,40.0,Female,Pune,Manager,Bachelor,Gold,50556.0,71.0,15.0,2.0,12985.0,Medium
+C194,25.0,Female,Hyderabad,Student,Bachelor,Silver,31669.0,24.0,14.0,2.0,7238.0,Medium
+C195,43.0,Male,Bangalore,Doctor,Diploma,Gold,42089.0,63.0,14.0,1.0,14875.0,Medium
+C196,44.0,Female,Chennai,Doctor,Master,Silver,49890.0,50.0,15.0,5.0,11519.0,Medium
+C197,40.0,Male,Bangalore,Doctor,Master,Gold,35087.0,89.0,8.0,1.0,9848.0,Medium
+C198,42.0,Female,Hyderabad,Student,High School,Silver,84024.0,94.0,3.0,2.0,5173.0,High
+C199,21.0,Female,Mumbai,Doctor,Diploma,Gold,43426.0,94.0,0.0,1.0,4772.0,Medium
+C200,32.0,Male,Delhi,Engineer,Bachelor,Platinum,27108.0,38.0,27.0,5.0,7592.0,Low
